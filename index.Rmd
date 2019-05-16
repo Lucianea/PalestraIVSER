@@ -200,6 +200,9 @@ output:
 >- www.youtube.com/estatisticacomr mais de 9 mil visualizações e 400 inscritos
 >- Portal, vídeos, tutoriais, livros e treinamento.
 
+## SER PY V {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
+### PROXIMOS PASSOS 
+### 2020
 
 <!--
 ## Programa Estatística é com R! {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
