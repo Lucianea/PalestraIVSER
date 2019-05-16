@@ -37,7 +37,7 @@ output:
 ## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 
 <div class="midcenter" style="margin-left:-3px; margin-top:-3px;">
-<img src="parceriasexemplo.jpg"></img>
+<img src="barraapoio.png"></img>
 </div>
 
 
