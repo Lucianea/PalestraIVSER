@@ -64,6 +64,11 @@ output:
 >- Datavisualization with highcharts: From beginner to expert – Joshua
 >- Building web applications in R using Shiny – Dean Attali
 
+### MINICURSOS ONLINE
+>- Introdução ao R
+>- Introdução ao Tidyverse
+>- Mais de 500 participantes de todos os estados do Brasil e exterior: Portugal, França e Reino Unido.
+
 ## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 
 ### 11 PALESTRAS
@@ -87,8 +92,10 @@ output:
 ## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 
 ### ARTIGOS E PÔSTERES
->- Sessão Pôster:29 trabalhos envolvendo XX autores da XXXXXXXXXXXXXX
->- Sessão Oral: 17 trabalhos envolvendo XX autores da XXXXXXXXXXXXXX
+>- Sessão Pôster:28 trabalhos 
+>- Sessão Oral: 16 trabalhos 
+>- Autores envolvidos: 112
+>- Instituições envolvidas (30): IFSC, INCO25, AFA, Embrapa Agrobiologia, ENCE, ENSP/PROCC/FIOCRUZ, IFMT, Maynooth University, Ministério da Saúde (MS/SVS/DIAHV), Poupex, PUC-MG, PUC-RJ, R-ladies, SEBRAE, UCDB, UEP, UERJ, UFBA, UFF, UFMG, UFMS, UFRB, UFRJ, UFSC, UFU, UNB, UNICAMP, UNIRIO, USP, UTFP-Câmpus Francisco Beltrão
 
 ## EDUCA SER {data-background-image="ser3.png" data-background-size="130px" data-background-position=bottom}
 
