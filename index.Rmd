@@ -29,12 +29,6 @@ output:
 
 ## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 ### PARCEIROS
->- inserir logo da ENCE
->- inserir logo do IMPA
->- inserir logo da UNIRIO
->- inserir os outros logos
-
-## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 
 <div class="midcenter" style="margin-left:-3px; margin-top:-3px;">
 <img src="barraapoio.png"></img>
@@ -64,9 +58,11 @@ output:
 >- Datavisualization with highcharts: From beginner to expert – Joshua
 >- Building web applications in R using Shiny – Dean Attali
 
+## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
+
 ### MINICURSOS ONLINE
->- Introdução ao R
->- Introdução ao Tidyverse
+>- Introdução ao R: https://goo.gl/forms/ztBAk9BRRNJbHWRM2
+>- Introdução ao Tidyverse: https://goo.gl/forms/zYDwSnBDgSoceyg02
 >- Mais de 500 participantes de todos os estados do Brasil e exterior: Portugal, França e Reino Unido.
 
 ## IV SER PY {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
@@ -202,9 +198,10 @@ output:
 
 ## Estatística é com R! {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
 
->- www.estatisticacomr.uff.br mais de 60 mil visualizações
->- www.facebook.com/estatisticacomr mais de 1300 curtidas
->- www.youtube.com/estatisticacomr mais de 9 mil visualizações e 400 inscritos
+>- www.estatisticacomr.uff.br mais de 180 mil visualizações
+>- www.facebook.com/estatisticacomr mais de 1600 curtidas
+>- www.youtube.com/estatisticacomr mais de 35 mil visualizações e  quase 800 inscritos
+>- R-ladies Niterói com mais de 300 membros
 >- Portal, vídeos, tutoriais, livros e treinamento.
 
 ## SER PY V {data-background-image="ser3.png" data-background-size="130px" data-background-position=top}
